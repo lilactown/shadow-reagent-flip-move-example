@@ -24,12 +24,12 @@ Emacs:
 
 1. `M-x cider-jack-in-clojurescript`
 2. Select `shadow` from the REPL selection
-3. Type `app` for the build to running
+3. Type `app` for the build to run
 4. Type `y` to open up http://localhost:8700 in a browser
 
 ### Connecting remotely
 
-If you've already started the build from teh command line (first option above),
+If you've already started the build from the command line (first option above),
 and you want to connect CIDER to it, you can do the following in Emacs:
 
 1. `M-x cider-connect`
